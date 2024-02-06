@@ -18,5 +18,5 @@ Also, let's connect on LinkedIn! Feel free to dm me for discussion!
 <div>
   <a href="https://github.com/frederick-88?tab=repositories&q=&type=&language=&sort=stargazers"><img height="154" src="https://github-readme-stats.vercel.app/api?username=frederick-88&show_icons=true&theme=vue-dark&rank_icon=percentile&include_all_commits=true&line_height=35&count_private=true&hide=contribs" /></a>
   <img height="154" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frederick-88&layout=compact&theme=vue-dark&hide=php&langs_count=6" />
-  <a href="https://wakatime.com/@frederick-88"><img height="150" src="https://github-readme-stats.vercel.app/api/wakatime?username=frederick88&layout=compact&theme=vue-dark&langs_count=6" /></a>
+  <a href="https://wakatime.com/@frederick88"><img height="150" src="https://github-readme-stats.vercel.app/api/wakatime?username=frederick88&layout=compact&theme=vue-dark&langs_count=6" /></a>
 </div>
