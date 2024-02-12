@@ -9,6 +9,7 @@ You can call me **Frederick**. I'm professional solution-driven fullstack web de
 Also, let's connect on LinkedIn! Feel free to dm me for discussion!
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/frederick-chen/)
+<br/>
 ![Profile views](https://komarev.com/ghpvc/?username=frederick-88&color=gray)
 ![](https://hit.yhype.me/github/profile?user_id=55318172)
 
