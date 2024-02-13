@@ -4,7 +4,7 @@ You can call me **Frederick**. I'm professional solution-driven fullstack web de
 
 | chenfrederick.com | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Frederick's Resume&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 |:-:|:-:|
-|<a href="https://chenfrederick.com"><img src="https://github.com/Frederick-88/frederick-88/assets/62235989/95a7b9a7-f81c-418f-815b-57ef0e7c1bcf" alt="Screenshot of chenfrederick.com" width="400"></a><br />See 20+ of my Portfolios and Experience here<br /><br /><a href="https://chenfrederick.com">**View**</a> | <a href="https://bit.ly/frederick-resume"><img src="https://github.com/Frederick-88/frederick-88/assets/62235989/41871771-5374-47ce-bd58-d68f2d843bba" alt="Screenshot of Frederick's Resume" width="400"></a><br />View My Resume<br /><br /><a href="https://bit.ly/frederick-resume">**View**</a> |
+|<a href="https://chenfrederick.com"><img src="https://github.com/Frederick-88/frederick-88/assets/62235989/a8a1bd80-dd27-4d87-bbef-f23e7a4a8a98" alt="Screenshot of chenfrederick.com" width="400"></a><br />See 20+ of my Portfolios and Experience here<br /><br /><a href="https://chenfrederick.com">**View**</a> | <a href="https://bit.ly/frederick-resume"><img src="https://github.com/Frederick-88/frederick-88/assets/62235989/41871771-5374-47ce-bd58-d68f2d843bba" alt="Screenshot of Frederick's Resume" width="400"></a><br />View My Resume<br /><br /><a href="https://bit.ly/frederick-resume">**View**</a> |
 
 Also, let's connect on LinkedIn! Feel free to dm me for discussion!
 
