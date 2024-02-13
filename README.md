@@ -2,9 +2,9 @@
 
 You can call me **Frederick**. I'm professional solution-driven fullstack web developer with around 4 years of working experience. I work around Javascript & Typescript Ecosystem. I focus on delivering key outcomes, collaborate together with teams to meet organization targets with more satisfied users/customers, and quickly adapt to new learnings.
 
-| chenfrederick.com | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;docs.thcl.dev&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+| chenfrederick.com | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Frederick's Resume&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 |:-:|:-:|
-|<a href="https://chenfrederick.com"><img src="https://user-images.githubusercontent.com/55318172/147338011-1584346a-24bc-435c-bb3b-275ed6640402.png" alt="Screenshot of chenfrederick.com" width="400"></a><br />Find my projects and writings here<br /><br /><a href="https://chenfrederick.com">**Visit**</a> | <a href="https://docs.thcl.dev/"><img src="https://user-images.githubusercontent.com/55318172/147338448-e5836ea9-bda9-46ef-a391-6627d0ba1d49.png" alt="Screenshot of docs.thcl.dev" width="400"></a><br />Personal development practices<br /><br /><a href="https://docs.thcl.dev">**Visit**</a> |
+|<a href="https://chenfrederick.com"><img src="https://github.com/Frederick-88/frederick-88/assets/62235989/95a7b9a7-f81c-418f-815b-57ef0e7c1bcf" alt="Screenshot of chenfrederick.com" width="400"></a><br />See 20+ of my Portfolios and Experience here<br /><br /><a href="https://chenfrederick.com">**View**</a> | <a href="https://bit.ly/frederick-resume"><img src="https://github.com/Frederick-88/frederick-88/assets/62235989/41871771-5374-47ce-bd58-d68f2d843bba" alt="Screenshot of Frederick's Resume" width="400"></a><br />View My Resume<br /><br /><a href="https://bit.ly/frederick-resume">**View**</a> |
 
 Also, let's connect on LinkedIn! Feel free to dm me for discussion!
 
