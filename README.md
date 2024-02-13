@@ -4,7 +4,7 @@ You can call me **Frederick**. I'm professional solution-driven fullstack web de
 
 | chenfrederick.com | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Frederick's Resume&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 |:-:|:-:|
-|<a href="https://chenfrederick.com" target="_blank"><img src="https://github.com/Frederick-88/frederick-88/assets/62235989/a8a1bd80-dd27-4d87-bbef-f23e7a4a8a98" alt="Screenshot of chenfrederick.com" width="400"></a><br />See 20+ of my Portfolios and Experience here<br /><br /><a href="https://chenfrederick.com" target="_blank">**View**</a> | <a href="https://bit.ly/frederick-resume" target="_blank"><img src="https://github.com/Frederick-88/frederick-88/assets/62235989/41871771-5374-47ce-bd58-d68f2d843bba" alt="Screenshot of Frederick's Resume" width="400"></a><br />View My Resume<br /><br /><a href="https://bit.ly/frederick-resume" target="_blank">**View**</a> |
+|<a href="https://chenfrederick.com"><img src="https://github.com/Frederick-88/frederick-88/assets/62235989/a8a1bd80-dd27-4d87-bbef-f23e7a4a8a98" alt="Screenshot of chenfrederick.com" width="400"></a><br />See 20+ of my Portfolios and Experience here<br /><br /><a href="https://chenfrederick.com">**View**</a> | <a href="https://bit.ly/frederick-resume"><img src="https://github.com/Frederick-88/frederick-88/assets/62235989/41871771-5374-47ce-bd58-d68f2d843bba" alt="Screenshot of Frederick's Resume" width="400"></a><br />View My Resume<br /><br /><a href="https://bit.ly/frederick-resume">**View**</a> |
 
 Also, let's connect on LinkedIn! Feel free to dm me for discussion!
 
@@ -17,7 +17,7 @@ Also, let's connect on LinkedIn! Feel free to dm me for discussion!
 ## Statistics
 
 <div>
-  <a href="https://github.com/frederick-88?tab=repositories&q=&type=&language=&sort=stargazers" target="blank"><img height="154" src="https://github-readme-stats.vercel.app/api?username=frederick-88&show_icons=true&theme=react&rank_icon=percentile&include_all_commits=true&count_private=true&show=prs_merged_percentage&hide=contribs,issues" /></a>
+  <a href="https://github.com/frederick-88?tab=repositories&q=&type=&language=&sort=stargazers"><img height="154" src="https://github-readme-stats.vercel.app/api?username=frederick-88&show_icons=true&theme=react&rank_icon=percentile&include_all_commits=true&count_private=true&show=prs_merged_percentage&hide=contribs,issues" /></a>
   <img height="154" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frederick-88&layout=compact&theme=react&hide=php&langs_count=6" />
 <!--   <a href="https://wakatime.com/@frederick88"><img height="150" src="https://github-readme-stats.vercel.app/api/wakatime?username=frederick88&layout=compact&theme=react&langs_count=6" /></a> -->
 </div>
