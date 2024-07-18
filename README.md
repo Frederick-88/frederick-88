@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/0856e542-2efd-4ab4-a2ae-4540bd499c00)# 👋 Hello!
+# 👋 Hello!
 
 You can call me **Frederick**. I'm professional solution-driven fullstack web developer with around 4 years of working experience. I work around Javascript & Typescript Ecosystem. I focus on delivering key outcomes, collaborate together with teams to meet organization targets with more satisfied users/customers, and quickly adapt to new learnings.
 
