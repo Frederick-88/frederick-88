@@ -25,7 +25,8 @@ You can call me **Frederick**. I'm professional solution-driven fullstack web de
 
 ---
 
-<a href="https://github.com/frederick-88?tab=repositories&q=&type=&language=&sort=stargazers"><img height="150" src="https://github-readme-stats.vercel.app/api?username=frederick-88&show_icons=true&theme=react&rank_icon=percentile&include_all_commits=true&count_private=true&show=prs_merged_percentage&hide=contribs,issues" /></a>
+
+<a href="https://github.com/frederick-88?tab=repositories&q=&type=&language=&sort=stargazers"><img height="150" src="https://github-readme-stats.vercel.app/api?username=frederick-88&show_icons=true&theme=react&rank_icon=percentile&count_private=true&show=prs_merged_percentage&hide=contribs,issues" /></a>
 
 ---
 
