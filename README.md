@@ -31,6 +31,5 @@ You can call me **Frederick**. I'm professional solution-driven fullstack web de
 ---
 
 ![Profile views](https://komarev.com/ghpvc/?username=frederick-88&color=gray)
-![](https://hit.yhype.me/github/profile?user_id=55318172)
 
 _Last Edited on: 18th of July, 2024_
