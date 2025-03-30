@@ -2,14 +2,13 @@
 
 You can call me **Frederick**. I'm professional solution-driven fullstack web developer with around 5 years of working experience. I work around Javascript & Typescript Ecosystem. I focus on delivering key outcomes, collaborate together with teams to meet organization targets with more satisfied users/customers, and quickly adapt to new learnings.
 
-| chenfrederick.com |
-|:-:|
-|<a href="https://chenfrederick.com"><img src="https://github.com/Frederick-88/frederick-88/assets/62235989/a8a1bd80-dd27-4d87-bbef-f23e7a4a8a98" alt="Screenshot of chenfrederick.com" width="400"></a><br />See 20+ of my Portfolios and Experience here<br /><br /><a href="https://chenfrederick.com">**View**</a>|
+| chenfrederick.com | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Frederick's Resume&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+|:-:|:-:|
+|<a href="https://chenfrederick.com"><img src="https://github.com/Frederick-88/frederick-88/assets/62235989/a8a1bd80-dd27-4d87-bbef-f23e7a4a8a98" alt="Screenshot of chenfrederick.com" width="400"></a><br />See 20+ of my Portfolios and Experience here<br /><br /><a href="https://chenfrederick.com">**View**</a> | <a href="https://bit.ly/frederick-resume-03"><img src="https://github.com/user-attachments/assets/a7ab57ef-51fe-4b06-9693-162dcab6cc5b" alt="Screenshot of Frederick's Resume" width="400"></a><br />View My Resume<br /><br /><a href="https://bit.ly/frederick-resume-03">**View**</a> |
 
+Also, let's connect on LinkedIn! Feel free to dm me for discussion!
 
-<!-- Also, let's connect on LinkedIn! Feel free to dm me for discussion! -->
-
-<!-- [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/frederick-chen/) -->
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/frederick-chen/)
 <!-- <br/> -->
 <!-- ![Profile views](https://komarev.com/ghpvc/?username=frederick-88&color=gray) -->
 <!-- ![](https://hit.yhype.me/github/profile?user_id=55318172) -->
@@ -32,4 +31,4 @@ You can call me **Frederick**. I'm professional solution-driven fullstack web de
 
 ![Profile views](https://komarev.com/ghpvc/?username=frederick-88&color=gray)
 
-_Last Edited on: 18th of July, 2024_
+_Last Edited on: 30th of March, 2025_
