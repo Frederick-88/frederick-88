@@ -25,7 +25,10 @@ Also, let's connect on LinkedIn! Feel free to dm me for discussion!
 ---
 
 
-<a href="https://github.com/frederick-88?tab=repositories&q=&type=&language=&sort=stargazers"><img height="160" src="https://github-readme-stats.vercel.app/api?username=frederick-88&show_icons=true&theme=react&rank_icon=percentile&count_private=true&show=prs_merged_percentage&hide=contribs,issues" /></a>
+<a href="https://github.com/frederick-88?tab=repositories&q=&type=&language=&sort=stargazers"><img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=frederick-88&theme=vue" /></a>
+<a href="https://github.com/frederick-88?tab=repositories&q=&type=&language=&sort=stargazers"><img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=frederick-88&theme=vue" /></a>
+
+<!-- <a href="https://github.com/frederick-88?tab=repositories&q=&type=&language=&sort=stargazers"><img height="160" src="https://github-readme-stats.vercel.app/api?username=frederick-88&show_icons=true&theme=react&rank_icon=percentile&count_private=true&show=prs_merged_percentage&hide=contribs,issues" /></a> -->
 
 ---
 
